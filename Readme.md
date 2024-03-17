@@ -10,7 +10,9 @@ Person 2: - CRUD for User Implement CRUD operations for user data (Create, Read,
 Test API endpoints using Postman or similar tools. 
 Ensure proper error handling and validation of user inputs.
 
-Frontend Developers (Person 1 and Person 3) Create routes for login/signup pages. 
+Frontend Developers (Person 1 and Person 3)
+
+Create routes for login/signup pages. 
 Design and create forms for user signup and login. 
 Implement form validation to ensure that user inputs are correct before sending requests to the backend. 
 Integrate frontend components with backend APIs using Axios or Fetch API for making HTTP requests. 
