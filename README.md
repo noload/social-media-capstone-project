@@ -22,7 +22,7 @@ Test user interface components across different browsers and screen sizes to ens
 
 More tasks will be added after completion of above
 
-sunita:
+sunita :
 
                  1) implemented login and signup page
                  2) created a nav bar using MUI library and tailwing styles
@@ -35,3 +35,23 @@ sunita:
 
                  to login use :         username:      Smile8chawla@gmail.com
                                         password:      password
+
+Dileep :
+
+                 1) tested API's for Login and signup
+                 2) created routes    and    created  schema for posts and created fake data
+                 3) tested all the backend and working fine
+
+                 technologies used :
+
+                 backend : express, mongoose, mongo DB, multer, JWT token, bcrypt, cors,
+
+                 to check the already tested API's =
+
+                 https://www.postman.com/spaceflight-geoscientist-53376935/workspace/social-media-app/collection/31396753-1944949f-d0ce-4b6f-ba40-21827a220dbc?action=share&creator=31396753
+
+
+sanjay :        1) complete front end for profile page and all the user sections friends list, my posts, all posts , user data 
+                2) implemented state management using redux
+                3) implemented complete routes single handedly 
+                4) completed the major chunk of front end
