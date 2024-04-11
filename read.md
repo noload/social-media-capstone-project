@@ -48,13 +48,13 @@ Dileep :
 
                  to check the already tested API's =
 
-        https://www.postman.com/spaceflight-geoscientist-53376935/workspace/social-media-app/collection/31396753-1944949f-d0ce-4b6f-ba40-21827a220dbc?action=share&creator=31396753
+https://www.postman.com/spaceflight-geoscientist-53376935/workspace/social-media-app/collection/31396753-1944949f-d0ce-4b6f-ba40-21827a220dbc?action=share&creator=31396753
 
 
-sanjay :        1) complete front end for profile page and all the user sections friends list, my posts, all posts , user data 
-                2) implemented state management using redux
-                3) implemented complete routes single handedly 
-                4) completed the major chunk of front end
+sanjay :         1) complete front end for profile page and all the user sections friends list, my posts, all posts , user data 
+                 2) implemented state management using redux
+                 3) implemented complete routes single handedly 
+                 4) completed the major chunk of front end
 
                 due to permission problems i am unable to push to the github : 
                 
